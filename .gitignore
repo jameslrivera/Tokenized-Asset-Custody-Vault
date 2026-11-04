@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+/out/
+/cache/
+/broadcast/
+
+node_modules/
+dist/
+
+/work/
+
+.DS_Store
+
+/lib/
